@@ -1,5 +1,5 @@
 # scrape-Deutsche-Schulen
-scrape german schools worldwide
+scrape german international schools
 
 ## Disclaimer
 This is for educational purpose only. I won't be responsible for any misuse.
