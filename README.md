@@ -5,7 +5,7 @@ scrape german international schools
 This is for educational purpose only. I won't be responsible for any misuse.
 
 ## Motivation
-Get a better, structured overview or do analysis on where German international schools are located and further specifics.
+Get a better, structured overview or do analysis on this data of German international schools.
 
 ## Procedure and result
 
