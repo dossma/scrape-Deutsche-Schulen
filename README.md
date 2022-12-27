@@ -26,7 +26,7 @@ The following data is being extracted and saved into a `csv` spreadsheet:
 ## Get started
 After the development setup has been established (see below), go to the `spiders` directory and run with
 
-`scrapy runspider schulcrawler.py`
+`scrapy runspider Dt_Schulen.py`
 
 The result will be saved under `schulcrawler.csv`
 
