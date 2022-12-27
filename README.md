@@ -24,14 +24,14 @@ The following data is being extracted and saved into a `csv` spreadsheet:
 <img src="https://github.com/dossma/scrape-Deutsche-Schulen/blob/main/example_pictures/Dt_Schulen_Gmaps_screenshot.jpg" width=100% height=100%>
 
 ## Get started
-After the development setup has been established (see below), run
+After the development setup has been established (see below), go to the `spiders` directory and run with
 
-`scrapy crawl schulcrawler`
+`scrapy runspider schulcrawler.py`
 
 The result will be saved under `schulcrawler.csv`
 
 ## Development setup
-Prominent required external library is
+Required is
 - Scrapy: https://github.com/scrapy/scrapy
 
 ```sh
