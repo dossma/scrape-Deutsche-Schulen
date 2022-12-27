@@ -20,15 +20,15 @@ The following data is being extracted and saved into a `csv` spreadsheet:
 - website of school
 - begin of school year
 
-<img src="https://github.com/dossma/scrape-CAMX/blob/main/snapshot.jpg" width=100% height=100%>
-<img src="https://github.com/dossma/scrape-CAMX/blob/main/Gmaps%20screenshot%20w%20profile.jpg" width=100% height=100%>
+<img src="https://github.com/dossma/scrape-Deutsche-Schulen/blob/main/example_pictures/Dt_Schulen_csv_screenshot.jpg" width=100% height=100%>
+<img src="https://github.com/dossma/scrape-Deutsche-Schulen/blob/main/example_pictures/Dt_Schulen_Gmaps_screenshot.jpg" width=100% height=100%>
 
 ## Get started
 After the development setup has been established (see below), run
 
 `scrapy crawl schulcrawler`
 
-The result will be saved under the 
+The result will be saved under `schulcrawler.csv`
 
 ## Development setup
 Prominent required external library is
