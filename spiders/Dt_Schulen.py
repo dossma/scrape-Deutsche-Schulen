@@ -18,7 +18,7 @@ shutdown_time = 20  # Sekunden bis zum Herunterfahren
 beep_finish = False  # peep machen bei Abbruch/Beendigung
 # log_level = logging.INFO
 log_level = "INFO"
-with open(r"Deutsche_Schulen URLs.csv", "rt", encoding="utf-8", errors="replace") as f:
+with open(r"Deutsche Schulen URLs.csv", "rt", encoding="utf-8", errors="replace") as f:
     start_urls = [url.strip() for url in f.readlines()]
 psu_xpath = None#'//div[@class="section-two"]//a/@href'  # Xpath-Pfad-String für zu extrahierende Links wenn parse_start_url verwendet werden soll
 
