@@ -1,14 +1,15 @@
 # scrape-Deutsche-Schulen
 scrape german international schools
 
-## Disclaimer
-This is for educational purpose only. I won't be responsible for any misuse.
-
 ## Motivation
-Get a better, structured overview or do analysis on this data of German international schools.
+Get a better, structured overview or do analysis on existent German international schools.
+
+## Disclaimer
+<!-- The Terms of Service of the data source do not prohibit extraction and the data is publicly available. -->
+The data is publicly available and no terms of service could be found, therefore extraction is deemed permitted.  
+Use this code only in an ethical way and without violating the law. 
 
 ## Procedure and result
-
 The following data is being extracted and saved into a `csv` spreadsheet:
 
 - name of school
